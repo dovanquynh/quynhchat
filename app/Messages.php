@@ -1,5 +1,6 @@
 <?php
 //asdffff
+////bug oh sssssss
 namespace App;
 
 use Illuminate\Database\Eloquent\Model;
