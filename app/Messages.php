@@ -1,7 +1,7 @@
 <?php
 //asdffff
 namespace App;
-
+//master branch change
 use Illuminate\Database\Eloquent\Model;
 
 class Messages extends Model
